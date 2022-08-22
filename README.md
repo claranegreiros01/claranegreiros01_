@@ -1,3 +1,3 @@
 # claranegreiros01_
-sex,money and feelings
+sex,money,feelings and die
 #turma1b-cemacs
